@@ -2,6 +2,7 @@
 Excel-based MySQL Dataset Pusher
 
 "Optimizing Data Management: Bridging Excel's Flexibility with Robust Database Solutions"
+
 There is nothing particularly unique about the concept and technical aspects of my project. Driven by the need to centralize my data, I developed a framework to streamline the process of submitting data into the database with just one click.
 
 The surge in data consumption demands individuals working with data to consistently gather vast amounts from various sources. The majority still relies on spreadsheet programs like Microsoft Excel for data-related tasks. The flexibility of Microsoft Excel is exceptional, enabling administrators to take on diverse roles. However, the storage capacity of this renowned program is quite limited.
