@@ -1,2 +1,2 @@
 # SpreadMinerSheet
-Excel-based MySQL Database Connector:
+Excel-based MySQL Database Connector
